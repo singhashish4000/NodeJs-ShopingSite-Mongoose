@@ -37,7 +37,7 @@ mongoose
     'mongodb+srv://cluster0-mq0zw.mongodb.net/shop?retryWrites=true', 
      {auth: {
         user: "ashish",
-        password: "bEsad@22MA"
+        password: "password"
       }, 
       useNewUrlParser: true , 
     }
